@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Yulin Cai"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/biliniusi.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Number theory, non-archimedean geometry"
   location         : "Regensburg, Germany"
   email            : "ylcai5388339@gmail.com"
