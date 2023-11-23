@@ -1,17 +1,14 @@
 ---
 layout: archive
-title: "Publications&Preprints"
 permalink: /publications/
 ---
-entries:
-  - title: me
-    entries:
-      - title: cv
-        url: ../assets/pdfs/katie-cv-june2023.pdf
-      - title: lab
-        url: https://www.childlanglab.com/
-      - title: "contact: <a href='mailto:kschuler@sas.upenn.edu'>email</a>, <a href='https://github.com/kschuler'>github</a>, <s>twitter</s>"
 
+## Publications:
+
+  - title: me
+    url: ../assets/pdfs/katie-cv-june2023.pdf
+
+## Preprints:
   - title: courses
     entries:
       - title: datasci for lang & mind
