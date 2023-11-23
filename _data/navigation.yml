@@ -5,7 +5,7 @@ main:
   - title: "Publications&Preprints"
     url: /publications/
   - title: "CV"
-    url: /year-archive/
+    url: /_data/yulin cai cv.pdf/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
