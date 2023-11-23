@@ -3,12 +3,12 @@ layout: archive
 permalink: /publications/
 ---
 
-## Publications:
+ Publications:
 
   - title: me
     url: ../assets/pdfs/katie-cv-june2023.pdf
 
-## Preprints:
+ Preprints:
   - title: courses
     entries:
       - title: datasci for lang & mind
