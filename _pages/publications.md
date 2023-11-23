@@ -12,6 +12,7 @@ permalink: /publications/
   - An explicit bound of integral points on modular curves, published in Communications in Mathematics, Volume 30(2022), Issue 1, 161-174 [Journal](https://cm.episciences.org/9389)
   - Integral points on the modular curves X_0(p), published in J.Number Theory, 221(2021), 211-221 [Journal](https://www.sciencedirect.com/science/article/pii/S0022314X2030192X)
   - Bound the difference of two singular moduli, published in Mosc. J. Comb. Number Theory, 10(2021), no.2, 95-110 [Journal](https://msp.org/moscow/2021/10-2/moscow-v10-n2-p02-s.pdf)
+  - (joint with Ce Xu) On harmonic numbers and nonlinear Euler sums, published in J. Math. Anal. Appl, Volume 466, Issue 1, 1 October 2018, Pages 1009-1042 [Journal](https://www.sciencedirect.com/science/article/pii/S0022247X18305274)
 
  Desertations:
   - PhD thesis (advisors: Yuri Bilu, Qing Liu): Integral points of modular curves, singular moduli and conductor-discriminant inequality, [Download](https://theses.hal.science/tel-02952884/)
