@@ -16,4 +16,4 @@ permalink: /publications/
  Desertations:
   - PhD thesis (advisors: Yuri Bilu, Qing Liu): Integral points of modular curves, singular moduli and conductor-discriminant inequality, [Download](https://theses.hal.science/tel-02952884/)
   - Master thesis (advisor: Yanan Lin): The trivial extensions of monomial algebras (Chinese) [Download](https://yulin-cai.github.io/_pdf/master thesis.pdf)
-  - Bachlor thesis (advisor: Yanan Lin): The proof of that E(A,B) is an abelian groups (Chinese) [Download](https://yulin-cai.github.io/assets/E.pdf)
+  - Bachlor thesis (advisor: Yanan Lin): The proof of that E(A,B) is an abelian groups (Chinese) [Download](https://yulin-cai.github.io/assets/_pdf/E.pdf)
