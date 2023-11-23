@@ -5,7 +5,7 @@ permalink: /publications/
 
  Preprints:
 
-  - Push-forwards and pull-backs of delta-forms and applications to non-archimedean Arakelov geometry [Arxiv](https://arxiv.org/abs/2303.04978)
+  - Push-forwards and pull-backs of delta-forms and applications to non-archimedean Arakelov geometry, submitted [Arxiv](https://arxiv.org/abs/2303.04978)
   - Intersection theory on non-archimedean analytic spaces [Arxiv](https://arxiv.org/abs/2301.02629)
     
  Publications:
