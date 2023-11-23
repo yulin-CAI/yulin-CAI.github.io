@@ -14,6 +14,6 @@ permalink: /publications/
   - Bound the difference of two singular moduli, published in Mosc. J. Comb. Number Theory, 10(2021), no.2, 95-110 [Journal](https://msp.org/moscow/2021/10-2/moscow-v10-n2-p02-s.pdf)
 
  Desertations:
-  - PhD thesis (advisors: Yuri Bilu, Qing Liu): Integral points of modular curves, singular moduli and conductor-discriminant inequality, [Download](https://cm.episciences.org/9389)
+  - PhD thesis (advisors: Yuri Bilu, Qing Liu): Integral points of modular curves, singular moduli and conductor-discriminant inequality, [Download](https://theses.hal.science/tel-02952884/)
   - Master thesis (advisor: Yanan Lin): The trivial extensions of monomial algebras (Chinese)
   - Bachlor thesis (advisor: Yanan Lin): The proof of that E(A,B) is an abelian groups (Chinese)
