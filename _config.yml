@@ -107,8 +107,8 @@ author:
   name             : "Yulin Cai"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Number theory, non-archimedean geometry"
-  location         : "Somewhere"
-  email            :
+  location         : "Regensburg, Germany"
+  email            : "ylcai5388339@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
