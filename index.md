@@ -5,7 +5,7 @@ author_profile: true
 
 ## About me
 
-I am a Mathematics postdoc in the group of Walter Gubler at Regensburg University, Germany. I got my PhD at University of Bordeaux, France, under the supervision of Yuri Bilu and Qing Liu.
+I am a Mathematics postdoc in the group of Walter Gubler and Klaus Künnemann at Regensburg University, Germany. I got my PhD at University of Bordeaux, France, under the supervision of Yuri Bilu and Qing Liu.
 
 ## Research interests:
 
