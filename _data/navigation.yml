@@ -2,11 +2,11 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About me"
+    url: /about/
   - title: "Publications&Preprints"
     url: /publications/
   - title: "CV"
     url: https://yulin-cai.github.io/assets/yulin-cai-cv.pdf
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
